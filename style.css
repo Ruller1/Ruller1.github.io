@@ -1,0 +1,24 @@
+.titulo{
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.div2{
+    padding-left: 20px;
+}
+
+.Fierro{
+    max-width: 100%;
+    height: 266px;
+    border: 10px solid #ddd;
+    border-radius: 2px;
+    padding-left: 0px;
+}
+
+.div1{
+    font-size: large;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Times New Roman', Times, serif;
+}
